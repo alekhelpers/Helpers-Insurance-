@@ -1,0 +1,21 @@
+{
+  "name": "Helpers Insurance",
+  "short_name": "Helpers",
+  "description": "Licensed health insurance agent in The Woodlands and Magnolia, TX. Alek Timmons helps individuals, families, and small businesses.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0c2340",
+  "theme_color": "#0c2340",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

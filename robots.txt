@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /betterppo/
+Disallow: /thank-you/
+
+Sitemap: https://www.helpershealthinsurance.com/sitemap.xml
